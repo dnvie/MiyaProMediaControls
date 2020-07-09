@@ -1,4 +1,4 @@
-# Miya Pro Media Controls (SF Keyboards)
+# Miya Pro Media Controls
 
  * <kbd>Ctrl</kbd> + <kbd>Up</kbd> : **Volume up**
  * <kbd>Ctrl</kbd> + <kbd>Down</kbd> : **Volume down**
