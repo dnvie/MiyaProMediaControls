@@ -1,2 +1,8 @@
-# MiyaProMediaControls
-AHK Media Controls for Miya Pro / SF Keyboards
+# Miya Pro Media Controls (SF Keyboards)
+
+ * <kbd>Ctrl</kbd> + <kbd>Up</kbd> : **Volume up**
+ * <kbd>Ctrl</kbd> + <kbd>Down</kbd> : **Volume down**
+ * <kbd>Ctrl</kbd> + <kbd>Insert</kbd> : **Mute**
+ * <kbd>Ctrl</kbd> + <kbd>Right</kbd> : **Next**
+ * <kbd>Ctrl</kbd> + <kbd>Left</kbd> : **Previous**
+ * <kbd>Ctrl</kbd> + <kbd>Delete</kbd> : **Pause**
