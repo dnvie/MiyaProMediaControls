@@ -14,4 +14,4 @@
  * Press <kbd>Win</kbd> + <kbd>R</kbd>, and type shell:startup
  * Hit <kbd>Ctrl</kbd> + <kbd>V</kbd>
  
- The file is now fully working, and automatically starts on boot.
+ **The file is now fully working, and automatically starts on boot.**
