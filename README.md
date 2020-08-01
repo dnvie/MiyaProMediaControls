@@ -1,4 +1,4 @@
-# 65% Keyboard Media Controls
+# 65% (SF) Keyboard Media Controls
 
  * <kbd>Ctrl</kbd> + <kbd>Up</kbd> : **Volume up**
  * <kbd>Ctrl</kbd> + <kbd>Down</kbd> : **Volume down**
