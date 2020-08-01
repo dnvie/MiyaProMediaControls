@@ -1,4 +1,4 @@
-# Miya Pro Media Controls
+# 65% Keyboard Media Controls
 
  * <kbd>Ctrl</kbd> + <kbd>Up</kbd> : **Volume up**
  * <kbd>Ctrl</kbd> + <kbd>Down</kbd> : **Volume down**
@@ -9,7 +9,7 @@
  ________________________________________________________
  
  * Download AHK from https://www.autohotkey.com/
- * Download MiyaProMediaControls.ahk from this Repository
+ * Download SFMediaControls.ahk from this Repository
  * Find and select the downloaded file. Then press <kbd>Ctrl</kbd> + <kbd>C</kbd>
  * Press <kbd>Win</kbd> + <kbd>R</kbd>, and type shell:startup
  * Hit <kbd>Ctrl</kbd> + <kbd>V</kbd>
